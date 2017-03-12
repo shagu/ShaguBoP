@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffffffffBoP
+## Author: Shagu, 2017
+## Notes: Auto Accepts BoP Loot when alone
+## Version: 0.1
+
+ShaguBoP.lua
