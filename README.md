@@ -2,7 +2,7 @@
 
 While not in raid or group, this addon auto accepts the BoP loot received in dungeons by removing the popup dialog.
 
-![preview](http://shagu.org/shagucollection/img/ShaguBoP.jpg)
+![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguBoP/popup.jpg)
 
 **Notice:**
 *This Addon or a superior and maintained version of it, is already included in [pfUI](https://github.com/shagu.pfUI). If using this in combination with pfUI you might get bad results or up to performance regressions.*
